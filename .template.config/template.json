@@ -1,6 +1,6 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "Mukesh Murugan",
+    "author": "Newton Aig",
     "classifications": [
         "WebAPI",
         "Clean Architecture",
@@ -14,11 +14,11 @@
         "language": "C#",
         "type": "project"
     },
-    "identity": "FullStackHero.NET.StarterKit",
-    "name": "FullStackHero .NET Starter Kit",
+    "identity": "Newtonly.NET.StarterKit",
+    "name": "Newtonly .NET Starter Kit",
     "description": "The best way to start a full-stack .NET 9 Web App.",
-    "shortName": "fsh",
-    "sourceName": "FSH.Starter",
+    "shortName": "newt",
+    "sourceName": "NEWT.Starter",
     "preferNameDirectory": true,
     "sources": [
         {
